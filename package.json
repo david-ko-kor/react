@@ -14,7 +14,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build --template build/static/index.html",
+    "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
@@ -36,5 +36,5 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "./"
+  "homepage": "https://david-ko-kor.github.io/react"
 }
